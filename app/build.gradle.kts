@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.evince.demo1"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.evince.demo1"
